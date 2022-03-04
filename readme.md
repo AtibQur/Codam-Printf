@@ -40,6 +40,21 @@
     <td>Prints a percent sign.</td>
   </tr>
 </table>
+<h2>External functions 📚</h2>
+<table>
+  <tr>
+    <td>va_start()</td>
+    <td>va_start intializes the va_list which holds all additional arguments with va_arg.</td>
+  </tr>
+  <tr>
+    <td>va_end()</td>
+    <td>va_end allowed a function with variable arguments which were used by va_start to return.</td>
+  </tr>
+  <tr>
+    <td>va_arg()</td>
+    <td>va_arg retrieves the next argument in the paramenter list.</td>
+  </tr>
+</table>
 
 <h2>Installation</h2>
 *To build the programm there is only a few steps: First of all, you can download the repository through the following steps in any shell of your preference:*
