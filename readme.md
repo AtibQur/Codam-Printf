@@ -64,7 +64,7 @@ git clone git@github.com:AtibQur/printf.git
 cd printf
 make
 </pre>
-This commands will compile everything and a executable "libft" should be created. 
+These commands will compile everything and a executable "printf" should be created. 
 <br>
 <em>*Note: functions from the normal subject are made and tested. Bonus objects are not included.</em>
 <br><br>
