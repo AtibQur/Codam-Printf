@@ -1,7 +1,7 @@
 # <p align="center">Project <a style="color:gray;text-decoration:none;" href="https://github.com/AtibQur/printf/blob/master/en.subject.pdf">Printf</a> 🖨️</h1>
 <p><img align="right" src="score.png" alt="Score" width="125" height="125"></p>
 <h2> Description Printf</h2>   
-<p>The goal of this project is to recreate the <em>printf</em> function. You have to implement the following conversions: </p>
+<p>The goal of this project is to recreate the <em>printf()</em> function. You have to implement the following conversions: </p>
 <table>
   <tr>
     <td>*c</td>
